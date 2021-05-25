@@ -1,0 +1,38 @@
+node JS - runtime env for executing javascript outside of the browser
+executing js probgrams outside browser
+chakra, spider monkey, v8 engine
+
+v8 engine => embeded in C++ => node
+
+Easy, fast, scalable
+
+Node?
+open source 
+cross platform
+in JS
+
+used in most places
+
+event driven, non blocking I/O
+
+non blocking, asynchronous behaviour
+
+multi threading
+
+Event Queue
+
+node is not a language => it's a runtime environment
+
+
+REPL
+SCRIPT
+MODULES
+NPM
+packages
+npm command
+npx - used to execute a package
+package.json
+event loop
+callback function 
+Promises
+
